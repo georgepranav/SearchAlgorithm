@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PS1iDBU66+kSDaXOu5kdCYh2Z+U2Vnmo+8xB2Ac6lrd2E2dbdgnx/THrAv19kzmqcnKDXH1+7jVm1gI4m4apZA==",
+  "success": true,
+  "projectFilePath": "/Users/pranavgupta/Desktop/ProgramExamples/SearchAlg/SearchAlgorithms/SearchAlgorithms/SearchAlgorithms.csproj",
+  "expectedPackageFiles": [
+    "/Users/pranavgupta/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/pranavgupta/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
